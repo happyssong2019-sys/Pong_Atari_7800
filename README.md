@@ -100,4 +100,4 @@ Concerto, Dragonfly 같은 플래시 카트에도 같은 `.a78` 파일을 그대
   헤더 형식을 여기 코드에서 확인했습니다
 - 어셈블러는 [DASM](https://github.com/dasm-assembler/dasm)
 
-- 참고 : 이 게임(과 이 README.md 파일)은 Claude Code로 작성되었습니다.
+참고 : 이 게임(과 이 README.md 파일)은 Claude Code로 작성되었습니다.
